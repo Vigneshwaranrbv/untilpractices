@@ -8,6 +8,7 @@ public class nestedfor {
         for (int i = 1; i <= 3; i++) {
 
                 System.out.print("*");
+            System.out.println("Hello world");
         }
             System.out.println();
         }
